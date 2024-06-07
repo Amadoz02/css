@@ -1,0 +1,29 @@
+
+body{
+  margin: 80px;
+  background: rgb(204, 251, 251);
+}
+
+h1, h3{
+  color: rgb(186, 0, 0);
+}
+.caja{
+
+  background-color: crimson;
+  margin: 80px;
+  border: solid 10px #000;
+  color: aliceblue;
+  padding: 10px;
+}
+p[id="texto2"]{
+  margin: 80px;
+
+}
+
+hr{
+  /*margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-right: 30px;*/
+  margin: 30px 10px 20px;
+  }
